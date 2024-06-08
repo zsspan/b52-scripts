@@ -1,4 +1,4 @@
-# Statistics and Probability Scripts, from STA B52
+# Statistics and Probability Scripts, from STAB52
 
 This repository contains scripts to solve statistics and probability questions.
 
